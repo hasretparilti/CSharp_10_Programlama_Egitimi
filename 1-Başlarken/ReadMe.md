@@ -19,9 +19,9 @@
 
 - Mesela VisualBasic'e baktığınız zaman yazılmış bir şiir gibi takır takır takır gider. Çok fazla bir sembolik değer/ifade yoktur.
 
-- Bir makine diline baktığınızda bildiğiniz Çince gibidir. Yani hiç birşey anlaşılmıyor 0'lardan 1'lerden oluşuyor bir assembly'e baktığınız zaman ciddi manada bakınca hiç birşey anlayamacağınız bir mantık otutturamayacağınız bir dil. 
+- Bir makine dilini incelediğiniz de hiçbir şey anlamadığınızı farkedersiniz. Çünkü makine dili 0 ve 1'lerin yan yana gelmesiyle oluşur. Assembly makine dilinin biraz daha gelişmiş halidir ve ilk bakışta matematiğine/formülüne/mantığına vakıf değilseniz assembly dilini de anlamanız mümkün değildir.
 
-- Yani bir dil eğer ki beşeri seviye de algılanabilir seviyedeyse baktığınızda metinselse kodları bu dil yüksek seviyelidir. Ama bir dil okunabilirliği düşüyorsa sembollerle ifade ediliyorsa ve bir matematiğe/mantığa göre yorumlanabiliyorsa o dil düşük seviyelidir.
+- Yani bir dil eğer ki beşeri seviye de algılanabilir seviyedeyse, baktığınızda metinselse kodları bu dil yüksek seviyelidir. Ama bir dil okunabilirliği düşüyorsa sembollerle ifade ediliyorsa ve bir matematiğe/mantığa göre yorumlanabiliyorsa o dil düşük seviyelidir.
 
 <img src="3.png" width="auto">
 
@@ -35,7 +35,7 @@
 
 <img src="5.png" width="auto">
 
-## C# İle Neler Geliştirilebilir
+## C# İle Neler Yapabilirsiniz
 - Aklınıza ne geliyorsa geliştirebilirsiniz.
 
 - Web Uygulamaları
